@@ -95,15 +95,6 @@ inside file Ex4Test.py
 
 
 
-
-## Authors
-
-- [@ Dolev Dublon](https://github.com/dolev146)
-- [@ Daniel Zaken](https://github.com/daniel555666)
-- [@ Yakov Khodorkovski](https://github.com/yakov103)
-
-
-
 # In this task we use the implementaion <br /> of the graph from assignment 3
 
 ![image](https://user-images.githubusercontent.com/62290677/147416924-927bcdcb-8cf6-4b95-82a0-ef475f122183.png)
