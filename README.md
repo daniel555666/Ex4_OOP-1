@@ -104,7 +104,7 @@ inside file Ex4Test.py
 
 
 
-# Ex3 OOP Ariel Univercity
+# In this task we use the implementaion of the graph from assignment 3
 
 ![image](https://user-images.githubusercontent.com/62290677/147416924-927bcdcb-8cf6-4b95-82a0-ef475f122183.png)
 
